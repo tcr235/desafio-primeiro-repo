@@ -1,0 +1,1 @@
+Teste de commits via git bash
